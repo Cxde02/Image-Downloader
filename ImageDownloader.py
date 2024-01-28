@@ -68,9 +68,9 @@ def download_images_from_website(url, base_folder):
         print(f"Failed to fetch webpage. Status code: {response.status_code}")
 
 # --INSERT WEBSITE HERE--
-website_url = "https://publicapi.dev/category/photography"
+website_url = ""
 # --Download Location--
-base_folder = "C:/Users/user/Desktop/PYTHON IMAGES"
+base_folder = ""
 
 # Extract the domain name from the URL
 domain = urlparse(website_url).netloc
