@@ -1,5 +1,4 @@
 # Image-Downloader
-## Overview
 Web Photo Downloader is a simple Python program that allows you to download photos from websites. It takes a URL as input and downloads all the photos from that webpage to a specified download location on your local machine.
 
 ## Features
